@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h2>Form Input</h2>
+    <form action="input2.php" onsubmit="return validateForm()" method="post">
+        <label for="Toko">Toko:</label><br>
+        <input type="text" id="Toko" name="Toko" value=""><br>
+        <label for="Kebutuhan">Kebutuhan:</label><br>
+        <input type="text" id="Kebutuhan" name="Kebutuhan" value=""><br>
+        <label for="No_tlp">No_tlp:</label><br>
+        <input type="text" id="No" name="No_tlp" value=""><br><br>
+        <label for="Longitut">Longitut:</label><br>
+        <input type="text" id="Longitut" name="Longitut" value=""><br><br>
+        <label for="Latitude">Latitude:</label><br>
+        <input type="text" id="Latitude" name="Latitude" value=""><br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <p id="informasi"></p>
+    <script>
+        function validateForm() {
+
+            let Kebutuhan = document.getElementById("Kebutuhan").value;
+            let text = "";
+            if (isNaN(Kebutuhan) || Kebutuhan <0 ) {
+                text = "Data Kebutuhan harus angka dan tidak boleh bernilai negatif";
+                // stop the form submission
+                event.preventDefault();
+            }
+            document.getElementById("informasi").innerHTML = text;
+        }
+    </script>
+</body>
+
+</html>
