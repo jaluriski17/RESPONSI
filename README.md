@@ -1,12 +1,21 @@
 **Latar Belakang**
-Later belakang membuat wigis dengan tema hasil bumi yaitu perikanan ini yaitu mengetahu persebaran TPI yang berada pada di kabupaten Cilacap dengan menggetau persebaran TPI dapa di lakukan buffering sebesar 15km untuk radius terdekat dari persebaran TPI dengan menambahna fitur input data Toko untuk mendata nama toko ,kebutuhan,No telefon,Longitude dan Latitude dengan mengamabil data tersebut dapat menampilkan poin pada peta persebaran TPI di kabupaten cilacap dengan menampilakn titik toko maka akan dapat di ukur dengan fiture mesure dengan jarak TPI terdekat denagn penjual dapat memanfaatkan dengan webgis ini sebagia data penjualan 
+
+Later belakang membuat wigis dengan tema hasil bumi yaitu perikanan ini yaitu mengetahu persebaran TPI yang berada pada di kabupaten Cilacap dengan menggetau persebaran TPI dapa di lakukan buffering sebesar 15km untuk radius terdekat dari persebaran TPI dengan menambahna fitur input data Toko untuk mendata nama toko ,kebutuhan,No telefon,Longitude dan Latitude dengan mengamabil data tersebut dapat menampilkan poin pada peta persebaran TPI di kabupaten cilacap dengan menampilakn titik toko maka akan dapat di ukur dengan fiture mesure dengan jarak TPI terdekat denagn penjual dapat memanfaatkan dengan webgis ini sebagia data penjualan
+
 **Komponen**
+
 komponen yang di gunakan di gunnaka 
+
 -Boostrap
+
 -Data BPS kabupaten Cilacap 
+
 -Cdnj.com
+
 -Laeflatjs
+
 -apxcharts
+
 **Fiterue pada WEBGIS**
 ![Screenshot 2023-11-25 115018](https://github.com/jaluriski17/RESPONSI/assets/110984811/51ae8fa9-2c0f-43eb-bdb8-86a1786a38f5)
 ![Screenshot 2023-11-25 115008](https://github.com/jaluriski17/RESPONSI/assets/110984811/c203bae5-6cff-4f72-ad37-fa8690c4cee9)
