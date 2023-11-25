@@ -23,6 +23,7 @@ komponen yang di gunakan di gunnaka
 ![Screenshot 2023-11-25 115105](https://github.com/jaluriski17/RESPONSI/assets/110984811/2e7ec116-8f0e-4b33-9871-69cad9785f78)
 ![Screenshot 2023-11-25 115054](https://github.com/jaluriski17/RESPONSI/assets/110984811/33599904-5edc-4edd-9bf1-2abf5e106984)
 ![Screenshot 2023-11-25 115001](https://github.com/jaluriski17/RESPONSI/assets/110984811/851e1cdd-6568-495d-9223-932406bc7e7e)
+![image](https://github.com/jaluriski17/RESPONSI/assets/110984811/19838083-aa23-4213-b368-23ae2e9313bd)
 
 
 
