@@ -1,6 +1,6 @@
 **Latar Belakang**
 
-Later belakang membuat wigis dengan tema hasil bumi yaitu perikanan ini yaitu mengetahu persebaran TPI yang berada pada di kabupaten Cilacap dengan menggetau persebaran TPI dapa di lakukan buffering sebesar 15km untuk radius terdekat dari persebaran TPI dengan menambahna fitur input data Toko untuk mendata nama toko ,kebutuhan,No telefon,Longitude dan Latitude dengan mengamabil data tersebut dapat menampilkan poin pada peta persebaran TPI di kabupaten cilacap dengan menampilakn titik toko maka akan dapat di ukur dengan fiture mesure dengan jarak TPI terdekat denagn penjual dapat memanfaatkan dengan webgis ini sebagia data penjualan
+Later belakang membuat wibgis dengan tema hasil bumi yaitu perikanan ini yaitu mengetahu persebaran TPI yang berada pada di kabupaten Cilacap dengan menggetau persebaran TPI dapa di lakukan buffering sebesar 15km untuk radius terdekat dari persebaran TPI dengan menambahna fitur input data Toko untuk mendata nama toko ,kebutuhan,No telefon,Longitude dan Latitude dengan mengamabil data tersebut dapat menampilkan poin pada peta persebaran TPI di kabupaten cilacap dengan menampilakn titik toko maka akan dapat di ukur dengan fiture mesure dengan jarak TPI terdekat denagn penjual dapat memanfaatkan dengan webgis ini sebagia data penjualan
 
 **Komponen**
 
